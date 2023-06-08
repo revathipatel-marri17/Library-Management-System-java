@@ -19,4 +19,8 @@ Welcome to Library Management Application
 6.Exit
 
 Hope this Helps you!!
-THANK YOU..
+THANK YOU...
+
+#{Code Clause};
+#JAVA Development Internship.
+#Library Management System
